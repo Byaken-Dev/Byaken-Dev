@@ -1,5 +1,5 @@
-# 💫 About Me:
-Multimedia Engineer wanting to test the latest technologies<br><br>📬 How to contact me:<br>You can email me at byaken@proton.me and also check out my other profiles to know more about me<br>Trailhead Profile: https://www.salesforce.com/trailblazer/sabine-florian<br>LinkedIn Profile: https://www.linkedin.com/in/sabine-florian<br>📕 Studied Multimedia Engineering at the University of the West, Colombia<br>🍂 I'm looking to collaborate in Server-side rendering projects with Deno and Nextjs<br>💪 I'm currently learning about Salesforce development and getting my first certification
+# 🍂✨ About Me:
+Multimedia Engineer wanting to test the latest technologies<br><br>📬 How to contact me:<br>You can email me at byaken@proton.me and also check out my other profiles to know more about me<br>Trailhead Profile: https://www.salesforce.com/trailblazer/sabine-florian<br>LinkedIn Profile: https://www.linkedin.com/in/sabine-florian<br>📕 Studied Multimedia Engineering at the University of the West, Colombia<br>🍃 I'm looking to collaborate in Server-side rendering projects with Deno and Nextjs<br>💪 I'm currently learning about Salesforce development and getting my first certification
 
 
 ## 🌐 Socials:
