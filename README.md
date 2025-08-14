@@ -19,4 +19,7 @@ Multimedia Engineer wanting to test the latest technologies<br><br>📬 How to c
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Byaken-Dev&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true)
 
+### 🎞️ Useful tutorials
+[![Getting Started with the PostgreSQL Extension for VS Code](https://img.youtube.com/vi/d_wpn8wW2sw/0.jpg)](https://www.youtube.com/watch?v=d_wpn8wW2sw)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
